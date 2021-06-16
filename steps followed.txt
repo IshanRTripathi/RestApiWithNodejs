@@ -1,0 +1,8 @@
+import express
+add port number
+configure the app to use the port number
+add a few endpoints and their callbacks
+run the server using command - node .
+open postman and try using the endpoints
+we can get the path params using the "req" object from the callback function and send the response using the 
+        "res" object as in the index.js file
